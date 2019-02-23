@@ -1,5 +1,5 @@
 # SHM2Opt
-A module for generating synthetic corrosion data and obtain a 2D optimal layout of sensors over a pipeline surface
+A module for generating synthetic corrosion data and obtain a 2D optimal layout of sensors over surface of a pipeline segment
 
 Probabilsitic Sampling methods are used in R language to generate damage samples.
 Constraint K-means is employed to cluster gnerated damages of samples using Python. 
